@@ -1,2 +1,2 @@
-# al-t-rma
+# alistirma
 Laravel Derslerini bitirdikten sonra yaptığım projeler
